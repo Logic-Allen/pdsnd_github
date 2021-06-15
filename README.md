@@ -20,3 +20,6 @@ reference URL:
 
 https://stackoverflow.com/questions/34714899/typeerror-unsupported-operand-types-for-str-and-int
 https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.value_counts.html
+
+
+https://numpy.org/devdocs/user/index.html
