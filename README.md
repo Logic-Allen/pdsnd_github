@@ -7,7 +7,7 @@
 Explore US Bikeshare Data
 
 ### Description
-Describe what your project is about and what it does
+Analyzing Chicago, New York City and Washington Bikeshare data to solve practical issues.
 
 ### Files used
 Include the files used
