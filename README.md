@@ -10,7 +10,13 @@ Explore US Bikeshare Data
 Analyzing Chicago, New York City and Washington Bikeshare data to solve practical issues.
 
 ### Files used
-Include the files used
+chicago.csv
+new_york_city.csv
+washington.csv
+
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+reference URL:
+
+https://stackoverflow.com/questions/34714899/typeerror-unsupported-operand-types-for-str-and-int
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.value_counts.html
