@@ -193,6 +193,7 @@ def df_display(df):
             except:
                 print('You have enter a wrong input. Please enter an integer!')
 
+        pd.set_option('display.max_columns',200)
         print(df.iloc[:row_numbers])
         while True:
             display_more = input("Do you want more rows to be displayed? Enter 'Yes' or 'No'.\n").lower()
